@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ZCalculator</string>
+    <string name="square_root_symbol">\u221a</string>
+    <string name="cube_root_symbol">\u221B</string>
+    <string name="fourth_root_symbol">\u221a</string>
+    <string name="pie_symbol">\u03C0</string>
+    <string name="xsquare">x\u00B2</string>
+    <string name="xcube">x\u00B3</string>
+    <string name="exponent">e\u00B0</string>
+    <string name="dividesymbol">x\u246B</string>
+    <string name="_0">0</string>
+    <string name="equal">=</string>
+    <string name="helpText">Use \'+\' to calculate series impedance and \'||\' to calculate parallel impedance.\n
+        To enter a complex number, type real part + \'i\' + imaginary part.\n
+        Example: 3.5i2 (3.5 is the real part and 2 is the imaginary part).\n
+        \n
+        To enter a capacitor or inductor value, type Capacitance/inductance + \'C or L\' + Frequency.\n
+        \n
+        You can also use metric prefixes, like m (10^-3). This calculator allows these prefixes:\n
+        m (10^-3) , u (10^-6), n (10^-9), p (10^-12), k (10^3), M (10^6) and G (10^9).\n
+        Example: 100mC1k (0.1 is the capacitance and 1000 is the frequency).\n
+        You may also use scientific notation. Example: 3E-6C2E3\n
+        \n
+        To apply higher precedence use parentheses. Example: 3i3 + 2uC1k || (80mL1k + 2.5i-10).</string>
+    <string name="how_to_use_the_calculator">HOW TO USE THE CALCULATOR</string>
+    <string name="back">back</string>
+    <string name="equal2">\n=</string>
+</resources>
