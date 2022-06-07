@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\mathe\Documents\Projects\Inatel projects\C125_L2_Project_V2\C125_L2_Project_Main\out\artifacts\C125_L2_Project_Main_jar\C125_L2_Project_Main.jar</jar>
+  <outfile>C:\Users\mathe\Documents\Projects\Inatel projects\C125_L2_Project_V2\C125_L2_Project_Main\out\artifacts\C125_L2_Project_Main_jar\Impedance_calculator.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\mathe\Documents\Projects\Inatel projects\C125_L2_Project_V2\Icons\Impedance_calculator_icon.ico</icon>
+  <singleInstance>
+    <mutexName>Calc</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
